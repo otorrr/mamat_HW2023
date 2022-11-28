@@ -1,0 +1,2 @@
+there was 3 of them, everytime we calculated the median, max,mean or min we checked the grades so we duplicated the first part of every .c file.
+we could not have duplicated them, we could have created a function thet does this thing and use it in these files.
